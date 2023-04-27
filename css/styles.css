@@ -137,16 +137,29 @@ body {
 /* HERO */
 /*  */
 
-.section-hero {
+/* .section-hero {
   padding-top: 188px;
   padding-bottom: 188px;
-}
+} */
 .hero-container {
   text-align: center;
 }
 .section-hero {
+  width: 1440px;
+  padding-top: 188px;
+  padding-bottom: 188px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
   background: var(--color-grey);
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/img-name.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .hero-title {
   max-width: 496px;
