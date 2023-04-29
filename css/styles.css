@@ -252,8 +252,11 @@ body {
 .works-list-item:not(:last-child) {
   margin-right: 24px;
 }
+
+/* Components-title */
 .works-title,
-.team-title {
+.team-title,
+.customers-title {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
@@ -303,6 +306,10 @@ body {
 .menu-team-item {
   background-color: var(--color-white);
 }
+
+/*  */
+/* Customers */
+/*  */
 
 /*  */
 /* FOOTER */
