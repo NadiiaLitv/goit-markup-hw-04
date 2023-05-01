@@ -304,9 +304,7 @@ body {
 }
 .menu-team-container {
   padding-top: 32px;
-  padding-right: 16px;
   padding-bottom: 32px;
-  padding-left: 16px;
 }
 .menu-team-title {
   text-align: center;
@@ -324,6 +322,8 @@ body {
   justify-content: center;
   align-items: center;
   gap: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .social-icons-item,
 .social-media-item {
@@ -429,9 +429,6 @@ body {
   display: flex;
   align-items: baseline;
   justify-content: baseline;
-}
-.social-media-conteiner {
-  margin-left: 120px;
 }
 
 .social-media-text {
