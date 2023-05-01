@@ -404,7 +404,6 @@ body {
   color: var(--color-cloud);
 }
 .footer-container {
-  margin-left: 156px;
   margin-right: 120px;
 }
 .footer-section-text {
@@ -429,6 +428,7 @@ body {
   display: flex;
   align-items: baseline;
   justify-content: baseline;
+  margin-left: 156px;
 }
 
 .social-media-text {
