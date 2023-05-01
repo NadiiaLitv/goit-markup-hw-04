@@ -307,8 +307,7 @@ body {
   margin-right: 24px;
 }
 .menu-team-container {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding: 32px 0;
   padding-left: 16px;
   padding-right: 16px;
 }
@@ -322,10 +321,6 @@ body {
 }
 .about-section {
   background: var(--color-cloud);
-}
-.social-list-wrapper {
-  padding-top: 32px;
-  padding-bottom: 32px;
 }
 .social-icons-list {
   display: flex;
